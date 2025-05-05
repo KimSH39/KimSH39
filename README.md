@@ -9,4 +9,10 @@
 ### 🌐 Find me on
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohyeon.sophia.kim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohyeonsophiakim/)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=blogger&logoColor=white)](https://kingwangzzang1.tistory.com)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=kingwangzzang1&theme=default)](https://kingwangzzang1.tistory.com)
+
+### 🛠 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
