@@ -1,4 +1,4 @@
-### Hi there 👋 I'm SoHyeon Kim 😊
+### Hi there 👋 I'm Sohyeon Kim 😊
 
 - 🎓 I majored in Data Technology  
 - 📱 These days, I'm learning about mobile communication, Android, and algorithms
