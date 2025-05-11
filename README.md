@@ -10,7 +10,7 @@
 ### 🌐 Find me on
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sohyeon.sophia.kim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohyeonsophiakim/)
-<a href="https://kingwangzzang1.tistory.com/">
+<a href="https://tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-eb531f?style=flat&logo=tistory&logoColor=white"/>
 </a>
 
