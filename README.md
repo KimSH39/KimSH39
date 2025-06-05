@@ -20,4 +20,4 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/asdjklfjsdfl/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=asdjklfjsdfl)](https://solved.ac/asdjklfjsdfl/)
